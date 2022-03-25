@@ -1,9 +1,9 @@
-package main.EtatsCoffre.EtatsCoffreVIsible;
+package main.back.EtatsCoffre.EtatsCoffreVIsible;
 
-import main.Coffre;
-import main.EtatsCoffre.Bloque;
-import main.EtatsCoffre.Cache;
-import main.EtatsCoffre.EtatCoffre;
+import main.back.Coffre;
+import main.back.EtatsCoffre.Bloque;
+import main.back.EtatsCoffre.Cache;
+import main.back.EtatsCoffre.EtatCoffre;
 
 public abstract class Visible extends EtatCoffre {
 

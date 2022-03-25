@@ -1,6 +1,6 @@
-package main.EtatsCoffre;
+package main.back.EtatsCoffre;
 
-import main.Coffre;
+import main.back.Coffre;
 
 public abstract class EtatCoffre {
 

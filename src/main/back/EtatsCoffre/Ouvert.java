@@ -1,7 +1,7 @@
-package main.EtatsCoffre;
+package main.back.EtatsCoffre;
 
-import main.Coffre;
-import main.EtatsCoffre.EtatsCoffreVIsible.Ferme;
+import main.back.Coffre;
+import main.back.EtatsCoffre.EtatsCoffreVIsible.Ferme;
 
 public class Ouvert extends EtatCoffre {
 

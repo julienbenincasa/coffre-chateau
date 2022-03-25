@@ -2,8 +2,8 @@ package test;
 
 import static org.junit.Assert.*;
 
-import main.Coffre;
-import main.I_CoffreChateau;
+import main.back.Coffre;
+import main.back.I_CoffreChateau;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

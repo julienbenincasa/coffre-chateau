@@ -1,4 +1,4 @@
-package main.EtatsCoffre;
+package main.back.EtatsCoffre;
 
 public class Bloque extends EtatCoffre {
 

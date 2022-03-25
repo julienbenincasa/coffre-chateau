@@ -1,4 +1,4 @@
-package main;
+package main.back;
 
 public interface I_CoffreChateau {
 

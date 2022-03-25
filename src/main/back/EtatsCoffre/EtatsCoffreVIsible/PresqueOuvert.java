@@ -1,9 +1,7 @@
-package main.EtatsCoffre.EtatsCoffreVIsible;
+package main.back.EtatsCoffre.EtatsCoffreVIsible;
 
-import main.Coffre;
-import main.EtatsCoffre.Bloque;
-import main.EtatsCoffre.Cache;
-import main.EtatsCoffre.Ouvert;
+import main.back.Coffre;
+import main.back.EtatsCoffre.Ouvert;
 
 public class PresqueOuvert extends Visible {
 
